@@ -1,9 +1,9 @@
 [{
-    "announcement":"v1.4.0 has fully released! Please remember to have your camera mode on the default option before starting the macro.",
+    "announcement":"v1.2.0 has fully released! Please remember to have your camera mode on the default option before starting the macro.",
     "updateInfo": {
-        "latestVersion":"v1.4.0",
-        "versionLink":"https://github.com/BuilderDolphin/dolphSol-Macro/releases/latest",
-        "updateNotes":"- Full release of the 1.4.0 version!"
+        "latestVersion":"v1.2.0",
+        "versionLink":"https://github.com/PayxSolutions/Blaze-macro-download/releases/tag/Blaze-Macro",
+        "updateNotes":"- Full release of the 1.2.0 version!"
     },
     "stars": {
         "12505855": {
